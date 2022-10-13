@@ -1,0 +1,19 @@
+CREATE TABLE store (id INTEGER PRIMARY KEY, item TEXT, section TEXT, price INTEGER, metal TEXT);
+
+INSERT INTO store VALUES (1, "cross necklace", "necklaces", 34, "silver");
+INSERT INTO store VALUES (2, "infinity necklace", "necklaces", 36, "silver");
+INSERT INTO store VALUES (3, "small disc necklace", "necklaces", 40, "gold");
+INSERT INTO store VALUES (4, "large disc cklace", "necklaces", 42, "gold");
+INSERT INTO store VALUES (5, "small disc necklace", "necklaces", 40, "gold");
+INSERT INTO store VALUES (6, "lucky charm necklace", "necklaces", 46, "gold");
+INSERT INTO store VALUES (7, "horseshoe necklace", "necklaces", 40, "silver");
+INSERT INTO store VALUES (8, "small bar necklace", "necklaces", 40, "gold");
+INSERT INTO store VALUES (9, "circle charm brangle", "bracelets", 40,"gold");
+INSERT INTO store VALUES (10,"infinity bracelet","bracelets", 40, "gold");
+INSERT INTO store VALUES (11, "horseshoe bracelet", "bracelets", 28, "silver");
+INSERT INTO store VALUES (12, "small disc bracelet", "bracelets", 40, "gold");
+INSERT INTO store VALUES (13, "bar bracelet", "bracelets", 28, "silver");
+INSERT INTO store VALUES (14, "large moon necklace", "necklaces", 36, "gold");
+INSERT INTO store VALUES (15, "small moon necklace", "necklaces", 30, "silver");
+
+
