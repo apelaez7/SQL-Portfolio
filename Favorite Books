@@ -1,0 +1,14 @@
+**Create a Favorite Books Table88
+
+CREATE TABLE Favorite_Books (id INTEGER PRIMARY KEY, name TEXT, author TEXT, genre TEXT;
+
+INSERT INTO Favorite_Books VALUES (1, "Harry Potter", "J.K. Rowling", 7);
+INSERT INTO Favorite_Books VALUES (2, "Little Women", "Louisa May Alcott", 8);
+INSERT INTO Favorite_Books VALUES (3, "The Alchemist", "Paulo Coelho", 9);
+INSERT INTO Favorite_Books VALUES (4, "Rich Dad Poor Dad", "Robert Kiyosaki",7);
+INSERT INTO Favorite_Books VALUES (5, "The Secret", "Rhonda Byrne", 8);
+INSERT INTO Favorite_Books VALUES (6, "Pride and Prejudice", "Jane Austen", 10);
+INSERT INTO Favorite_Books VALUES (7, "Lord of the Rings", "William Golding", 9);
+INSERT INTO Favorite_Books VALUES (8, "Atomic Habits", "James Clear", 10);
+
+
